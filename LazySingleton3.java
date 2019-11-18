@@ -1,3 +1,5 @@
+多线程版--二次判断--性能高
+
 public class Singleton {
     private volatile static Singleton instance = null;
     private Singleton() {
