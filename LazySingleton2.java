@@ -1,3 +1,5 @@
+多线程版--性能低
+
 public class LazySingleton {
     private static Singleton instance = null;
     private Singleton() {
